@@ -3,7 +3,7 @@
   "version": "1.6",
   "slug": "pentair_screenlogic",
   "description": "Pentair Screenlogic",
-  "url": "https://github.com/cfallwell/hassio-addons/tree/Develop/pentair-screenlogic",
+  "url": "https://github.com/cfallwell/hassio-addons/tree/master/pentair-screenlogic",
   "arch": [
     "armhf", 
     "armv7", 
