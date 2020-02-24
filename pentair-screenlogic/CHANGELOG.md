@@ -11,3 +11,6 @@
 
 ## 1.5
 - Fixed mqtt subscription topics
+
+## 1.6
+- Forked version of Brian's plugin
